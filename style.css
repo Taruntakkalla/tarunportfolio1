@@ -414,8 +414,7 @@ article .icon {
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
   justify-content: center;
-  margin-left: 40%;
-  margin-right: 40%;
+  
 }
 
 .color-container {
