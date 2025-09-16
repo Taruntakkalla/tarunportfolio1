@@ -329,7 +329,7 @@ section {
 }
 
 .about-details-container {
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
 }
 
@@ -411,9 +411,9 @@ article .icon {
 
 .about-container-project{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
-  justify-content: center;
+  justify-content: space-between;
   
 }
 
